@@ -1,4 +1,4 @@
-## Linux-Lab-Work
-<h4>Uploading scripts </h4>
+# Linux-Lab-Work
+<h2>Uploading scripts </h2>
 
-All the shell scripts given for the lab are uploaded in this repository.
+All the shell scripts given for the lab are uploaded in this repository
